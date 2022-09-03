@@ -1,1 +1,1 @@
-# Projeto exemplo treinamento sobre GIT e GITHUB
+# Projeto GIT e GITHUB na Vida Real
